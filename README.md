@@ -1,6 +1,6 @@
-### Hello, Welcome! Meu nome é Ruan Moreira!👋
+# Hello, Welcome! Meu nome é Ruan Moreira!👋
 
-# BIO:
+## BIO:
 Sou estudante, aprendiz de programador e discípulo de Jesus.
 Desde 2021 tenho me interessando cada vez mais na área de ciência da computação e buscando conhecer novas tecnologias e aperfeiçoando minhas habilidades nessa área.
 
