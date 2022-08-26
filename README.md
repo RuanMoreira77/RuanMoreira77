@@ -1,10 +1,11 @@
-### Olá! Eu sou Ruan Moreira!👋
+### Hello, Welcome! Meu nome é Ruan Moreira!👋
 
-![Ruan GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanMoreira77&show_icons=true&theme=dark)
+#BIO:
+Sou estudante, aprendiz de programador e discípulo de Jesus.
+Desde 2021 tenho me interessando cada vez mais na área de ciência da computação e buscando conhecer novas tecnologias e aperfeiçoando minhas habilidades nessa área.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanMoreira77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias
+## Tecnologias que venho aprendendo:
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
